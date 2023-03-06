@@ -1,0 +1,6 @@
+{
+  "extends": "@mono/tsconfig/library.json",
+  "compilerOptions": {
+    "rootDir": "."
+  }
+}
